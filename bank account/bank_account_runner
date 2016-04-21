@@ -1,0 +1,4 @@
+require_relative('bank_account')
+bank_account_1 = BankAccount.new('Jay','business', 500)
+
+puts bank_account_holder_1.holder_name
